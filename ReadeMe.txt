@@ -1,0 +1,34 @@
+https://jaomix.ru/pravitel-paryashhih-nebes/
+--- on the first line, write the address of the downloaded book and dont change the name of file
+--- на первой строке напишите адрес скачиваемой книги и не меняйте имя файла
+
+
+--- the following about the program
+
+The program saves chapters in txt format.
+The program works in semi-automatic mode (i.e., unfortunately, you will have to participate). Every 50 downloaded chapters, she will ask to pass a captcha. In order for everything to continue working, you need to go to any chapter of the book and reboot until a captcha appears, after passing it, make sure that it will not be twice, otherwise everything will be covered with a copper basin. Then go to the console and type 'y' - Eng. letter.
+Of course, you can do everything in auto mode, but you will have to pay.
+If the site says that the limit has been reached, use a VPN. You can download planeten, it is free and easy to install (and without ads).
+To complete the process in emergency mode, press the combination 'Right Control + C' - Eng. (at least that's how it works for me, but they write 'break + C' everywhere)
+If the program opens in the console and closes immediately, then (everything is done in windows) you need to open the file through the console.
+I advise you to set the width of the console to the maximum.
+
+--- следующее о программе
+
+Программа сохраняет главы в формате txt.
+Программа работает в полуавтоматическом режиме (т.е. к сожалению вам придёться принимать участие). Каждые 50 загруженных глав она будет просить пройти капчу. Чтобы всё продолжило работать, вам нужно пройти на любую главу книги и перезагружать, пока не появиться капча, после её прохождения убедитесь, что она не будет дважды, иначе всё накроеться медным тазом. После идите в консоль и введите 'y' - англ. буква.
+Конечно можно сделать всё в авто режиме, но придёться платить.
+Если сайт пишет, что лимит исчерпан, воспользуйтесь VPN. Можете скачать planetvpn, он бесплатен и прост в установке (причем без рекламы).
+Чтобы завершить процесс в экстренном режиме нажмите комбинацию 'RightControl + C' - англ.(по крайне мере так у меня работает, но в везде пишут 'break + C')
+Если прога открывается в консоле и сразу закрывается, то (всё проделано в windows) нужно открыть файл через консоль.
+Советую поставить ширину консоли на максимум.
+
+--- From the author
+I'm not too good at programming, but I hope you enjoy the downloaded chapters.
+
+You can write to me by email (vt0550@ya.ru ) , if there are any problems (other than the keyboard error).
+
+--- От автора
+Я не слишком хорош в програмировани, но надеюсь вы получите удовольствие от скачанных глав.
+
+Можете писать мне на почту (vt0550@ya.ru) , если есть какие-то проблемы (кроме ошибки keyboard).
